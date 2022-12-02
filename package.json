@@ -1,11 +1,15 @@
 {
   "name": "reheme",
   "displayName": "Reheme",
-  "description": "Dark theme.",
-  "version": "1.0.0",
+  "description": "Blue and Purple dark theme by UpLauncher Team.",
+  "version": "1.0.2",
   "publisher": "uplauncher",
   "engines": {
     "vscode": "^1.73.0"
+  },
+  "icon": "Reheme.png",
+  "repository": {
+    "url": "https://github.com/UpLauncher/Reheme"
   },
   "categories": [
     "Themes"

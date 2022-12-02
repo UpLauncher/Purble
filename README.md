@@ -18,3 +18,4 @@ Warning: Pages and SNS are in Japanese.
 
 * Developed by UpLauncher Team
 * [Designed by Rai](https://twitter.com/raidesuuu)
+* Licensed under the MIT License
