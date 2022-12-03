@@ -2,7 +2,7 @@
   "name": "reheme",
   "displayName": "Reheme",
   "description": "Blue and Purple dark theme by UpLauncher Team.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "publisher": "uplauncher",
   "engines": {
     "vscode": "^1.73.0"
@@ -19,7 +19,12 @@
       {
         "label": "Reheme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rai-color-theme.json"
+        "path": "./themes/Reheme.json"
+      },
+      {
+        "label": "Reheme Super Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Reheme-SD.json"
       }
     ]
   }
