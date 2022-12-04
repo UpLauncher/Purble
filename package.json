@@ -2,7 +2,7 @@
   "name": "reheme",
   "displayName": "Reheme",
   "description": "Blue and Purple dark theme by UpLauncher Team.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "publisher": "uplauncher",
   "engines": {
     "vscode": "^1.73.0"

@@ -1,10 +1,8 @@
 # Reheme theme (for VS Code)
 
 ## What is Reheme theme?
-
 Reheme theme includes the following features:
 * Blue, and Purple Theme
-* Dark mode
 
 ## Help
 Support is available in English, but we use translations.

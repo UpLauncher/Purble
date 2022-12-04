@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.2]
+ - Added Light Theme (Release)
+
 ## [1.1.1]
  - Added Light Theme
 
