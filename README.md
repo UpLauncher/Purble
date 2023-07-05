@@ -1,9 +1,9 @@
-# This extension is no longer supported.
-# Reheme theme (for VS Code)
+# Purble theme (for VS Code)
 
-## What is Reheme theme?
-Reheme theme includes the following features:
-* Blue, and Purple Theme
+## What is Purble theme?
+Purble theme features:
+* Blue and purple based theme
+* Easy to read and cool theme
 
 ## Help
 Support is available in English, but we use translations.
