@@ -1,3 +1,4 @@
+# This extension is no longer supported.
 # Reheme theme (for VS Code)
 
 ## What is Reheme theme?
